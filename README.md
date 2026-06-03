@@ -1,21 +1,21 @@
 # Retail-sales-analisis
 ## Project overview
-This project analyzes retail salesperformance using SQL and Power BI
-- SQL Analysis
-- Data Cleaning
-- Power BI Dashboard
-- Business Insights
-- GitHub Portfolio
+The objective of this project is to analyze retail sales performance across different regions, customer segments, and product categories.
 ## Business problem
 The company wants to understand sales trends, profitablility, and customer performance.
 ## Dataset
 Sample Superstore Dataset from Kaggle.
 ## Tools used
-- SQL
-- Excel
+- Python (Pandas)
+- MySQL
 - Power BI
-- Power Query
 - GitHub
+## Data Cleaning Tasks
+- Check missing values
+- Remove duplicate records
+- Convert date fields
+- Create additional time features
+- Export cleaned dataset
 ## Key findings
 (To be updated)
 ## Recomendations
