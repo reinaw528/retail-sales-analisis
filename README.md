@@ -1,4 +1,4 @@
-# Retail-sales-analisis
+# Retail sales analysis
 ## Project overview
 The objective of this project is to analyze retail sales performance across different regions, customer segments, and product categories.
 ## Business problem
